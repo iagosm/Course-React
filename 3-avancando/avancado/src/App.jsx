@@ -11,6 +11,7 @@ import Container from "./components/Container.jsx";
 import ExecuteFunction from "./components/ExecuteFunction.jsx";
 import Message from "./components/Message.jsx";
 import ChangeMessageState from "./components/ChangeMessageState.jsx";
+import UserDetails from "./components/UserDetails.jsx";
 
 function App() {
   const [userName] = useState("Maria");
@@ -35,6 +36,7 @@ function App() {
 
   return (
     <div>
+      <UserDetails />
       <h1>Avancado em React</h1>
       {/* Imagem em public */}
       <div>
