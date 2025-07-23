@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Notebook Dell Inspiron",
+      "price": 3500
+    },
+    {
+      "id": "2",
+      "name": "Mouse Logitech MX Master 3",
+      "price": 450
+    },
+    {
+      "id": "3",
+      "name": "Teclado Mecânico Redragon",
+      "price": 300
+    },
+    {
+      "id": "4",
+      "name": "Monitor LG Ultrawide 29''",
+      "price": 1250
+    },
+    {
+      "id": "5",
+      "name": "Cadeira Gamer ThunderX3",
+      "price": 1399.99
+    },
+    {
+      "id": "6",
+      "name": "HD Externo Seagate 2TB",
+      "price": 379.9
+    },
+    {
+      "id": "7",
+      "name": "Smartphone Samsung Galaxy S22",
+      "price": 3999
+    },
+    {
+      "id": "8",
+      "name": "Fone de Ouvido JBL Tune 500",
+      "price": 199.99
+    },
+    {
+      "id": "9",
+      "name": "Impressora Epson Ecotank",
+      "price": 899
+    },
+    {
+      "id": "10",
+      "name": "Webcam Logitech C920",
+      "price": 499
+    },
+    {
+      "id": "11",
+      "name": "SSD Kingston 480GB",
+      "price": 269
+    },
+    {
+      "id": "12",
+      "name": "Placa de Vídeo RTX 3060",
+      "price": 2499
+    },
+    {
+      "id": "13",
+      "name": "Processador AMD Ryzen 5 5600X",
+      "price": 1149
+    },
+    {
+      "id": "14",
+      "name": "Fonte Corsair 650W",
+      "price": 529
+    },
+    {
+      "id": "15",
+      "name": "Gabinete Gamer Aerocool",
+      "price": 299.9
+    },
+    {
+      "id": "16",
+      "name": "Tablet Samsung Galaxy Tab A8",
+      "price": 1150
+    },
+    {
+      "id": "17",
+      "name": "Kindle 11ª Geração",
+      "price": 499
+    },
+    {
+      "id": "18",
+      "name": "Hub USB-C 7 em 1",
+      "price": 159.9
+    },
+    {
+      "id": "19",
+      "name": "Carregador Portátil 20000mAh",
+      "price": 219.9
+    },
+    {
+      "id": "20",
+      "name": "Controle Xbox Series X",
+      "price": 429
+    },
+    {
+      "id": "40a9",
+      "name": "Ps5",
+      "price": "4900"
+    },
+    {
+      "id": "df06",
+      "name": "BATATA",
+      "price": "2311"
+    },
+    {
+      "id": "7d0a",
+      "name": "BATATA",
+      "price": "2311"
+    },
+    {
+      "id": "497b",
+      "name": "BATATA",
+      "price": "2311"
+    },
+    {
+      "id": "53d6",
+      "name": "BATATA1",
+      "price": "2311"
+    },
+    {
+      "id": "bb3a",
+      "name": "TESTE",
+      "price": "21313"
+    },
+    {
+      "id": "ecb2",
+      "name": "carrs",
+      "price": "1232"
+    },
+    {
+      "id": "267a",
+      "name": "aaaa",
+      "price": "123"
+    }
+  ]
+}
